@@ -34,6 +34,6 @@
 
 ## Future Enhancements 🚀
 
-Add support for more topics and customization.
-Integrate with web-based or mobile platforms for ease of use.
-Incorporate multilingual support for global accessibility.
+- Add support for more topics and customization.
+- Integrate with web-based or mobile platforms for ease of use.
+- Incorporate multilingual support for global accessibility.
